@@ -34,9 +34,9 @@ other researchers can install and trust.
 | --- | --- | --- |
 | **[PyMieSim](https://github.com/MartinPdeS/PyMieSim)** | Lorenz–Mie scattering · Python/C++ | Connects particles and illumination to detector coupling; published in *Optics Continuum*. |
 | **[SuPyMode](https://github.com/MartinPdeS/SuPyMode)** | Fiber components · Eigenmode methods | Models mode evolution and coupling in tapered fiber systems; published in *Optics Continuum*. |
-| **[FlowCyPy](https://github.com/MartinPdeS/FlowCyPy)** | Flow-cytometry digital twin | Links particle events and scattering physics to fluidics, detector electronics, noise, and measured signals. |
+| **[FlowCyPy](https://github.com/MartinPdeS/FlowCyPy)** | Flow-cytometry digital twin | Links particle events and scattering physics to fluidics, detector electronics, noise, and measured signals. A research-software publication is in preparation. |
 | **[LightWave2D](https://github.com/MartinPdeS/LightWave2D)** | 2D FDTD · Photonics | Simulates propagation, scattering, diffraction, waveguides, gratings, resonators, and lenses. |
-| **[PackLab](https://github.com/MartinPdeS/PackLab)** | Statistical physics · Monte Carlo | Computes hard-sphere correlations and explicit configurations through PY, RSA, and Metropolis workflows. |
+| **[PackLab](https://github.com/MartinPdeS/PackLab)** | Statistical physics · Monte Carlo | Computes hard-sphere correlations and explicit configurations through PY, RSA, and Metropolis workflows. A research-software publication is in preparation. |
 | **[RosettaX](https://github.com/MartinPdeS/RosettaX)** | Measurement calibration | Brings FCS data, peak identification, fitting, profiles, and reusable fluorescence/scattering calibration together. |
 
 ## How I build
@@ -49,6 +49,11 @@ other researchers can install and trust.
 
 - [**PyMieSim: an open-source library for fast and flexible far-field Mie scattering simulations**](https://doi.org/10.1364/OPTCON.473102), *Optics Continuum* (2023)
 - [**SuPyMode: an open-source library for design and optimization of fiber optic components**](https://doi.org/10.1364/OPTCON.513562), *Optics Continuum* (2024)
+
+Research-software manuscripts describing **FlowCyPy** and **PackLab** are
+currently in preparation. FlowCyPy presents an end-to-end digital twin for
+flow-cytometry measurements, while PackLab brings analytical and simulation
+workflows together for the structure and scattering of hard-sphere systems.
 
 ## Let’s connect
 
